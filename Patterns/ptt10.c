@@ -1,3 +1,4 @@
+//all that patterns build your logic
 /*
 * * * * *
 * * * *
